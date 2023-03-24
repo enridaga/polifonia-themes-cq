@@ -1,0 +1,21 @@
+CQ1. What was the composer’s network (patrons, institutions …)?
+CQ11: What did people ‘make of’, how  did they react to, e.g. music?
+CQ14: What is the cause of a change, e.g. increasing number of concerts over time?
+CQ2. What relationships exist between different sources of information, e.g. payslips and accounts?
+CQ2: Did musician X and performer Y ever met? Where, when, and why?
+CQ10: How does the world of brass bands connect with that of elite music?
+CQ12: Who was the author of a piece of music?
+CQ13: What was the country of origin of a piece of music?
+CQ1: What music was being played?
+CQ1: What places did muciain Z visited in her career?
+CQ2: Who was listening to the music?
+CQ3: How did the instruments used change over time?
+CQ3: In what context the meeting happend?
+CQ4: What is the provenance of the event attendees? What and how they happened to be there?
+CQ4: What was source of money – e.g. for instruments?
+CQ5: How can we characterize the relation among the participants?
+CQ5: Where were the musicians coming from?
+CQ6: Who were teaching the musicians?
+CQ7: Where were the places (in which they played)?
+CQ8: How were instruments sold?
+CQ9: What was the sales pitch?

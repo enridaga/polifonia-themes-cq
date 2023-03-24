@@ -1,0 +1,18 @@
+CQ1: Is there a digital space to represent and describe the concept of "Opus", and store digital scores related to an opus ?
+CQ1: Search operations should be expressed on either raw-level features (eg melodic lines) or higher-level features (eg modes, cadences, triad patterns, etc.). The systm should retrieve efficiently all sources that match the search pattern, and identifiy pattern occurrences
+CQ2: Am I proposed  the most relevant criterias, or combination of criterias,  to expand an initial search ?
+CQ2: Is my collections and subcollections organisation based on clear concepts (e.g., genre, composer, period...) to gather Opuses ?
+CQ3: Am I able to nagivate, search and visualize  my collections and opus ?
+CQ3: At each step, the result set takes the form of a subcorpus organized according to rich relationships, and enriched with user annotations
+CQ3: Can I link fragments of sources and fragments of scores, such as for instance a measure in an Opus with a part of a reecording ?
+CQ4: A result set can be stored (in intention, not in extension) as a Relevant Corpus, and its definition can be revised at any moment
+CQ5: Identify the dimensions and/or features that are relevant to support an on-the-fly reorganization of the digital library, whenever the standard organization does not meet the user's expectations
+CQ6: Can I progressively explore the content of my library, adding criteria to refine large results ?
+CQ1: Can I link digital sources to an Opus ?
+CQ1: Can I susesimilarity criterias based on metadata and features of musical works ?
+CQ1: What are the most relevant dimensions to classify on the fly a result set ?
+CQ2: A subset can be hierarchically refined based on criteria independant from on another and independant from the initial search pattern. The user can navigate in this hierarchy and refine the search.
+CQ2: Can I refer to 
+CQ2: What features can be extracted on the fly from a score content to partition in a meaning ful way a score collection?
+CQ4: Can I examine 
+CQ5: navigating through a Relevant Corpus is based on anotation and search patterns

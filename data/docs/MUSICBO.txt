@@ -1,0 +1,36 @@
+CQ5: Which performers (musicians, singers) have performed musical composition X? 
+CQ6)What contexts are the word x, y, z, h related to?
+CQ6: Which performers (musicians, singers) have performed musical composition X for the first time? 
+CQ1)what are the meanings of the word 'vocality' in Italian (x)?
+CQ10: In which historical documents is there evidence of reception of musical composition X? 
+CQ11: In which bibliographic references is there evidence of reception of musical composition X? 
+CQ12: Which is the medium of performance of musical composition X? 
+CQ13: Which was the first medium of performance of musical composition X? 
+CQ14: Which instruments are involved in musical composition X? 
+CQ15: Which voices are involved in musical composition X? 
+CQ16: In which tonality was written the musical composition X for the first time? 
+CQ17: Which is/are the composer(s) of the musical composition X? 
+CQ18: Who has spoken about the musical composition X? 
+CQ19: Who has spoken about the musical performance X? 
+CQ1: What was Wagner's first performance in Bologna? On what date?
+CQ1: Where was the musical composition X performed? 
+CQ2)What are the meanings of the word 'vocality' in French (y)?
+CQ20: How was the musical composition X received? 
+CQ21: How was the performance of musical composition X received? 
+CQ22: When was a musical composition performed? 
+CQ2: In which buildings was musical composition X performed? 
+CQ2: What was Verdi's first performance in Bologna? On what date?
+CQ3) What are the meanings of the word 'vocality' in German (z)?
+CQ3: Where was the musical composition X performed for the first time? 
+CQ3: Who were the public figures who participated in event X (or Y)?
+CQ4) What are the meanings of the word 'vocality' in Spanish (h)?
+CQ4: In which buildings was musical composition X performed for the first time? 
+CQ4: Who were the musicians who participated in event X (or Y)?
+CQ5)How do the words x and y change over time?
+CQ5: Who talked about event X (or Y)?
+CQ6: In which works is event X recounted/traced?
+CQ7) How do these contexts change over time?
+CQ7: In which scores is there evidence of musical composition X? 
+CQ7: What were the critical reactions to event X (or Y)? Are them positives?
+CQ8: In which historical documents is there evidence of musical composition X? 
+CQ9: In which bibliographic references is there evidence of musical composition X? 

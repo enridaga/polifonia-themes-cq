@@ -1,0 +1,17 @@
+PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd:  <http://www.w3.org/2001/XMLSchema#>
+PREFIX fx:   <http://sparql.xyz/facade-x/ns/>
+PREFIX xyz:  <http://sparql.xyz/facade-x/data/>
+PREFIX ont: <http://w3id.org/polifonia/ontology/meetups#>
+PREFIX meetup: <http://w3id.org/polifonia/pilot/meetups/>
+
+SELECT ?file
+WHERE {
+	# fx -q queries/sandbox.sparql -v fileId=10085 -v subject=http://dbpedia.org/resource/Edward_Elgar
+   
+    SERVICE <x-sparql-anything:> {
+		 fx:properties fx:location "./stories" ; fx:archive.matches ".*.md".
+ 	 [] fx:anySlot ?file .
+	}
+}

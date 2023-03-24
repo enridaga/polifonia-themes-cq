@@ -1,0 +1,79 @@
+CQ1: What are geographically distinct features of organs from region X? (e.g., in what differ 17th century Southern German organs from 17th century Spanish organs?).
+CQ3: Which are all organs near to geographic coordinates x, y?
+CQ51: Given organ X, what organs are similar according to similarity measure Y?
+CQ10: Which are all organs with pedal range starting lower than X?
+CQ11: Which are all organs with pedal range ending higher than X?
+CQ12: Which are all organs with wind system type X?
+CQ13: Which are all organs with temperament X?
+CQ14: Which are all organs with year of construction after X?
+CQ15: Which are all organs with year of construction before X?
+CQ16: Which are all organs built by organ builder X?
+CQ17: Which are all organs which has been maintained or restored by builder X?
+CQ18: Which are all organs that are linked to person X?
+CQ19: Which are all organs with more than X bellows?
+CQ1: Can I find interesting materials without applying filters?
+CQ1: What does the organ look like?
+CQ1: Which are all organs at location X?
+CQ20: Which are all organs with pitch heigher than X Hz?
+CQ21: Which are all organs with wind pressure higher than X mm?
+CQ22: Which are all organs with wind pressure lower than X mm?
+CQ23: Which are all organs with key action type X?
+CQ24: Which are all organs with stop action type X?
+CQ25: Which are all organs with pitch lower than X Hz?
+CQ26: Which are all organs with console location X?
+CQ27: Which are all organs based on search term X?
+CQ28: Who was the builder of organ X?
+CQ29: What is the current location of organ X?
+CQ2: What types of resources can I find?
+CQ2: Which are all organs in city X?
+CQ2: Which organs are built in a similar style?
+CQ30: What were previous locations of organ X?
+CQ31: When have changes been made to organ X?
+CQ32: What changes have been made to organ X?
+CQ33: Why was change X made to organ Y?
+CQ34: What is the current disposition of organ X?
+CQ35: What is the composition of stop X in organ Y?
+CQ36: Of which material is stop X made?
+CQ37: Of which material is the case of organ X made?
+CQ38: Which materials have been used to build organ X?
+CQ39: What historic dispositions are known for organ X?
+CQ3: Is there a way of visualizing all the materials connected to my interests?
+CQ3: What is the concert agenda for organ X?
+CQ40: What is the source for historic disposition X of organ Y?
+CQ41: What is the current pitch of organ X?
+CQ42: What are the sources for fact X?
+CQ42: What is the current temperature of organ X?
+CQ43: What is the current console location of organ X?
+CQ44: What is the current wind system type of organ X?
+CQ45: What is the current wind pressure of organ X?
+CQ46: What are the characteristics of the case of organ X?
+CQ47: What are decorative elements of the case of organ X?
+CQ48: What are inscriptions on the case of organ X?
+CQ49: What are the dispositions of all organs made by organ builder X?
+CQ4: Can I keep getting suggestions in real time?
+CQ4: Where to find audio/video resources featuring organ X?
+CQ4: Which are all organs that have stop X?
+CQ50: What are the sources for fact X?
+CQ52: What literature exists about organ X?
+CQ53: What literature exists about organ builder X?
+CQ54: What sources are available regarding the sound of organ X?
+CQ55: Does organ X stil exist?
+CQ56: When was organ X deconstructed?
+CQ57: Why was organ X deconstructed?
+CQ58: Which parts of deconstructed organ X are still in existence?
+CQ59: Where are parts of deconstructed organ X currently located?
+CQ5: How can I share what I find on the site?
+CQ5: Where to find audio/video resources featuring organist X?
+CQ5: Which are all organs with playing aid X?
+CQ60: Which components of organ X have been reused from other (earlier) organs?
+CQ61: What is the origin of component X of organ Y?
+CQ62: Which are all organs that have components made by organ builder X?
+CQ6: How I personalize my navigation experience without knowing the filtering criteria or the materials' characteristics?
+CQ6: What is the address of the owner/maintainer of organ X?
+CQ6: Which are all organs with more than X stops?
+CQ7: Which are all organs with more than X keyboards?
+CQ8: Which are all organs with manual range starting lower than X?
+CQ9: Which are all organs with manual range ending higher than X?
+Relevant CQs are all in Paul#1_OrganComparison.
+See story Paul#1_OrganComparison for retrieval CQs. In addition:
+See the set of CQs for Paul#1_OrganComparison. In addition:

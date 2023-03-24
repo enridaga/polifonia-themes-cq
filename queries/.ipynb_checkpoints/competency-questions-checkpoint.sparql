@@ -1,0 +1,34 @@
+PREFIX rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX xsd:  <http://www.w3.org/2001/XMLSchema#>
+PREFIX fx:   <http://sparql.xyz/facade-x/ns/>
+PREFIX xyz:  <http://sparql.xyz/facade-x/data/>
+PREFIX ont: <http://w3id.org/polifonia/ontology/meetups#>
+PREFIX meetup: <http://w3id.org/polifonia/pilot/meetups/>
+
+SELECT ?text ?pilot ?file 
+WHERE {
+    SERVICE <x-sparql-anything:> {
+		 fx:properties fx:location ?_file .
+	 [] a xyz:YamlFrontMatter ;
+	    rdf:_1 ?value .
+	 BIND(?_file as ?file) .
+	 BIND (
+	 IF(contains(UCASE(?value), "MEETUPS"), "MEETUPS",
+	 IF(contains(UCASE(?value), "MUSICBO"), "MUSICBO",
+	 IF(contains(UCASE(?value), "ACCESS"), "ACCESS",
+	 IF(contains(UCASE(?value), "CHILD"), "CHILD",
+	 IF(contains(UCASE(?value), "TONALITIES"), "TONALITIES",
+	 IF(contains(UCASE(?value), "TUNES"), "TUNES",
+	 IF(contains(UCASE(?value), "BELLS"), "BELLS",
+	 IF(contains(UCASE(?value), "FACETS"), "FACETS",
+	 IF(contains(UCASE(?value), "INTERLINK"), "INTERLINK",
+	 IF(contains(UCASE(?value), "ORGANS"), "ORGANS",""
+	 )))))))))) AS ?pilot
+	 ) .
+	 ?x fx:anySlot ?text .
+	 filter (CONTAINS(?text, "CQ")) .
+	}
+    #BIND(SUBSTR(?_file, fx:String.lastIndexOf(?_file,'/') + 2) as ?story) .
+	#BIND(fx:serial(?pilot) AS ?0)
+}

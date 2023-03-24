@@ -1,0 +1,30 @@
+CQ1: Can we see interconnections between organs, e.g. same builder
+CQ1: Search organs with the possibility to combine searches, based on various features. (In this scenario: city, building, organ builder, disposition)
+CQ1: Search organs with the possibility to combine searches, based on various features.
+CQ1: Search organs with the possibility to combine searches, based on various features.
+CQ1: Search organs with the possibility to combine searches, based on
+CQ2: Can we identify organs through a characteristic, e.g. oldest organ in the Netherlands with a keyboard to G3?
+CQ2: What are the technical features such as pitch, windpressure, and bellow type?
+CQ4: Can we observe and understand trends in organs over time, e.g. how one tradition (German) influences or replaces another (Dutch) and why?
+CQ5: Can we visualize change of a network over time, e.g. with a slider, and do this in a way such as to see the change without having to remember previous states?
+CQ2: Is XX fact reliable? What are the sources of XX fact?
+CQ2: Which organ builders worked on whose (original organ builder’s) organs?
+CQ3: Can we ask technical questions about the construction of the organ and which materials were made?
+CQ3: What is left from the original organs built by XX organ builder? Where are these original components now?
+CQ3: What materials is the casing made of?
+CQ3: Who built and/or renovated XX organ?
+CQ4: What are the dispositions of all the organs made by XX organ builder?
+CQ4: Which changes have been made to the original organs? When were these changes made? Who made the changes? To what degree are the organs (or components of organs) in their original state?
+CQ4:What was the disposition of the organ at a specific point in time?
+CQ5: What are the arthistorical features of the front of the organ? In which style is the organ built?
+CQ5: When have changes been made to the organ? What were these changes? Who made these changes?
+CQ5: Which organs have a similar disposition?
+CQ6: Is XX fact reliable? What are the sources of XX fact?
+CQ6: What does the organ look like?
+CQ6: When (and why) was the organ moved? Where was the organ placed originally?
+CQ7: What are the arthistorical features of the front of the organ? In which style is the organ built?
+CQ7: Where can more information be found about a specific organ/organ builder/time period/location/etc.? / Which literature or resources contain information about a specific organ/organ builder/time period/location/etc.?
+CQ7: Where can more information be found about a specific organ/organ builder/time period/location/etc.? / Which literature or resources contain information about a specific organ/organ builder/time period/location/etc.?
+CQ8: What are the decorative elements?
+CQ8: Which organ builders worked on whose (original organ builder’s) organs?
+CQ9: Which organs are built in a similar style?

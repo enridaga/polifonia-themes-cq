@@ -1,0 +1,33 @@
+CQ12: Inspect the degree to which metadata fields have been filled across the collections, see trends and gaps?
+CQ12: Is there a person mentioned in the excerpt of the lyrics? If yes, what background information is available for him/her?
+CQ3: Can we visualize the relations between different media, different music etc?
+CQ7: What are the relations between the relevant countries, compositions, composers and performers in the various collections?
+CQ8: Has another musical piece "the user likes" been recorded in the same venue?
+CQ8: How have the relations between the relevant countries, compositions, composers and performers in the various collections changed over time?
+CQ9: Are there excerpts of the lyrics available for a musical piece? If yes, which are they?
+CQ10: How many search results are there per genre?
+CQ10: Is the excerpt of the lyric featured in other musical pieces?
+CQ11: What is the relevant metadata for music collections and what do the different fields mean?
+CQ11: Which is the source of the excerpt of the lyrics?
+CQ1: Can we find relations between different artists and music?
+CQ1: In which collections/datasets does song X occur?
+CQ1: What is the connection between two musical pieces?
+CQ1: What is the musical piece that the persona selects?
+CQ2: Can we find music which has a non-obvious relation to some other music?
+CQ2: In which countries does song X occur?
+CQ2: Is a musical piece connected to another musical piece by historical event?
+CQ2: With which image/textual information/multimedia/musical piece is the selected musical piece connected to inside/outside the playlist?
+CQ3: Which compositions match with William's thematic focus for the exhibition?
+CQ3: Which feature is selected to create the shuffle?
+CQ3: Which is the melodic pattern of the musical piece?
+CQ4: In which other musical pieces does the melodic pattern appear?
+CQ4: What are the types of features that are used to create shuffles?
+CQ4: Which composers and performers are related to these compositions?'
+CQ5: In which historical documents is composer X mentioned?
+CQ5: Which is the immediate previous/next musical piece?
+CQ5: Who is/are the composer(s)/musician(s) of the musical piece?
+CQ6: Is a musical piece connected to another musical piece by common people?
+CQ6: Under which titles is this song known? (multi-language)
+CQ6: What information is available for the composer(s)/musician(s)?
+CQ7: When/Where was the musical piece recorded?
+CQ9: How many search results are there per time period?

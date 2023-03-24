@@ -1,0 +1,34 @@
+CQ14: Can a set of bells be played electrically, manually, or both?
+CQ15: How/Using which tools is the set of bells played, when played manually?
+CQ20: Using which execution technique(s) is the set of bells played, when played manually?
+CQ3: In which context is the building located (urban, periurban...)?
+CQ7: Are there significant variations in the frequencies between the manually produced sound and the electric sound, such as to have repercussions on the soundscape?
+CQ10: Which is the extension of the whole set of bells in a bell tower?
+CQ11: Which is the weight of the bell?
+CQ12: Which are the measures of the bell?
+CQ13: What kind of execution techniques are possible to perform according to a specific mounting system?
+CQ16: Where is the church/bell tower?
+CQ17: How many bells are in the church?
+CQ18: Which is the mouth diameter of the bell?
+CQ19: Which is the sound bow of the bell?
+CQ1: Where is the Bell Tower?
+CQ1: Where is the building?
+CQ2: What kind of execution characterizes that bell tower?
+CQ2: What kind of repertoire is traditionally performed in that specific location?
+CQ2: When (what year) was the building built?
+CQ3: Are there formalized collective actors who carry out sound practices?
+CQ3: What is the dating that accompanies this repertoire?
+CQ4: Are there bells in a church?
+CQ4: Are there formalized transmission methods that characterize the acquisition of skills related to the bell practice?
+CQ4: Is it a repertoire performed in the contemporary world?
+CQ5: Is it a repertoire in that place currently performed by hand or by electric means?
+CQ5: Which age groups do the transmission practices involve?
+CQ5: Which is the mounting system of the bell?
+CQ6: Do transmission practices involve both men and women?
+CQ6: How many people are generally employed for the performance of these sound practices?
+CQ6: Which is the material of the bell?
+CQ7: By whom (by which foundry) were they cast?
+CQ7: Do transmission practices include the organization of public events?
+CQ8: Are there historical evidences of the presence of that sound in the surrounding area?
+CQ8: In which year were they cast?
+CQ9: Which is the nominal/fundamental note of the bell?
